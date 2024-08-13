@@ -6,5 +6,4 @@
 *.toc
 *.synctex.gz
 *.fdb_latexmk
-	
-# LaTeX intermediate files
+/archive
