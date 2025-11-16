@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on abowtiekindofguy</title>
-    <link>http://localhost:57136/</link>
+    <link>https://www.akshatjha.xyz/</link>
     <description>Recent content in Home on abowtiekindofguy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 16:46:01 +0530</lastBuildDate>
-    <atom:link href="http://localhost:57136/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Nov 2025 00:33:47 +0530</lastBuildDate>
+    <atom:link href="https://www.akshatjha.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on IIT</title>
+      <link>https://www.akshatjha.xyz/posts/thoughts-on-iit/</link>
+      <pubDate>Mon, 17 Nov 2025 00:33:47 +0530</pubDate>
+      <guid>https://www.akshatjha.xyz/posts/thoughts-on-iit/</guid>
+      <description>&lt;p&gt;I used to hate the idea of engineering. Just like the inherent left-leaning attitude in youth, I abhored the idea of pursuing something that everyone was doing. In fact, I was almost going to do a BS (Research) at IISc. Almost &amp;hellip;, until 12th September.&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.akshatjha.xyz/images/iisc_admission_withdrawal.png&#34;&#xA;    alt=&#34;IISc Admission Withdrawal&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;IISc Admission Withdrawal&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The thing is, on 11th September, IIT Bombay decided to release the results for JEE Advanced 2022. I was ranked 264 in the country (more on that in a bit) and 24 among the Economically Weaker Section (&lt;a href=&#34;https://en.wikipedia.org/wiki/Economically_Weaker_Section&#34;&gt;EWS reservation&lt;/a&gt;) aspirants.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:57136/posts/hello-world/</link>
+      <link>https://www.akshatjha.xyz/posts/hello-world/</link>
       <pubDate>Fri, 31 Oct 2025 16:46:01 +0530</pubDate>
-      <guid>http://localhost:57136/posts/hello-world/</guid>
+      <guid>https://www.akshatjha.xyz/posts/hello-world/</guid>
       <description>&lt;p&gt;Just checking if everything is working.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Alpha</title>
-      <link>http://localhost:57136/projects/project-1/</link>
+      <link>https://www.akshatjha.xyz/projects/project-1/</link>
       <pubDate>Wed, 15 Jan 2025 10:00:00 +0530</pubDate>
-      <guid>http://localhost:57136/projects/project-1/</guid>
+      <guid>https://www.akshatjha.xyz/projects/project-1/</guid>
       <description>&lt;p&gt;This is a sample project showcasing my work on web development and design. Project Alpha demonstrates modern web technologies and clean UI/UX principles.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies used:&lt;/strong&gt; React, TypeScript, TailwindCSS&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsive design&lt;/li&gt;&#xA;&lt;li&gt;Modern UI components&lt;/li&gt;&#xA;&lt;li&gt;Performance optimized&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
