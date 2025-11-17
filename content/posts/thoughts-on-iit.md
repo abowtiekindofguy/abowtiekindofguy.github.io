@@ -1,7 +1,7 @@
 +++
 date = '2025-11-17T00:33:47+05:30'
 draft = false
-title = 'Thoughts on IIT (and the system)'
+title = 'On Reservation'
 +++
 
 I used to hate the idea of engineering. In fact, I was almost going to do a BS (Research) at IISc. Almost ..., until 12th September.
